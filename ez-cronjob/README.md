@@ -70,6 +70,10 @@ The skill covers:
 
 Plus complete working examples for daily standups, one-shot reminders, and weekly reports.
 
+## Repository
+
+**Official repo:** https://github.com/ProMadGenius/clawdbot-skills
+
 ## Author
 
 **Isaac Zarzuri** - [@Yz7hmpm](https://x.com/Yz7hmpm)

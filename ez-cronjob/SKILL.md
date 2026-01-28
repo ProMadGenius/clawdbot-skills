@@ -5,6 +5,7 @@ author: Isaac Zarzuri
 author-url: https://x.com/Yz7hmpm
 version: 1.0.0
 homepage: https://www.metacognitivo.com
+repository: https://github.com/ProMadGenius/clawdbot-skills
 metadata: {"agentskills":{"category":"troubleshooting","tags":["cron","scheduling","telegram","debugging","moltbot","clawdbot"]}}
 ---
 
